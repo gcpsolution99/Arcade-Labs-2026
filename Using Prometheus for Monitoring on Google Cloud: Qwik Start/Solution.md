@@ -6,7 +6,11 @@
 ## ©Credit :
 - All rights and credits goes to original content of Google Cloud [Google Cloud SkillBoost](https://www.cloudskillsboost.google/)
 
-
+```
+curl -LO https://raw.githubusercontent.com/gcpsolution99/Arcade-Labs-2026/refs/heads/main/Using%20Prometheus%20for%20Monitoring%20on%20Google%20Cloud%3A%20Qwik%20Start/abhi.sh
+sudo chmod +x abhi.sh
+./abhi.sh
+```
 
 ## Congratulations !!
 
