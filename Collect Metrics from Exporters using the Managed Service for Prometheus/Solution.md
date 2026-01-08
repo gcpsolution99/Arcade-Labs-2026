@@ -7,7 +7,9 @@
 - All rights and credits goes to original content of Google Cloud [Google Cloud SkillBoost](https://www.cloudskillsboost.google/)
 
 ```
-
+curl -LO https://raw.githubusercontent.com/gcpsolution99/Arcade-Labs-2026/refs/heads/main/Collect%20Metrics%20from%20Exporters%20using%20the%20Managed%20Service%20for%20Prometheus/abhi.sh
+sudo chmod +x abhi.sh
+./abhi.sh
 ```
 
 ## Congratulations !!
