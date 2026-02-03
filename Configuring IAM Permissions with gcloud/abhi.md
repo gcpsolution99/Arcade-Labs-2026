@@ -12,9 +12,9 @@ export ZONE=$(gcloud compute project-info describe \
 gcloud compute ssh centos-clean --zone=$ZONE --quiet
 ```
 ```
-export ZONE=$(gcloud compute project-info describe \
---format="value(commonInstanceMetadata.items[google-compute-default-zone])")
-gcloud compute ssh centos-clean --zone=$ZONE --quiet
+curl -LO  https://raw.githubusercontent.com/gcpsolution99/Arcade-Labs-2026/refs/heads/main/Configuring%20IAM%20Permissions%20with%20gcloud/abhi.sh
+sudo chmod +x abhi.sh
+./abhi.sh
 ```
 ## Congratulations !!
 
