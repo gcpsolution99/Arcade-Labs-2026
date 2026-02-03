@@ -6,13 +6,9 @@
 ## Run in CloudShell and follow video:
 
 ```
-export REGION=
-```
-
-```
-curl -LO raw.githubusercontent.com/gcpsolution99/GCP-solution/refs/heads/main/Cloud%20Storage%3A%20Qwik%20Start%20-%20Cloud%20Console/GSP073.sh
-sudo chmod +x GSP073.sh
-./GSP073.sh
+curl -LO https://raw.githubusercontent.com/gcpsolution99/Arcade-Labs-2026/refs/heads/main/Bracketology%20with%20Google%20Machine%20Learning/abhi.sh
+sudo chmod +x abhi.sh
+./abhi.sh
 ```
 
 ## ©Credit :
