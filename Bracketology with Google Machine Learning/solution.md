@@ -6,8 +6,8 @@
 ## Run in CloudShell and follow video:
 
 ```
-curl -LO https://raw.githubusercontent.com/gcpsolution99/Arcade-Labs-2026/refs/heads/main/Bracketology%20with%20Google%20Machine%20Learning/abhi.sh
-chmod +x abhi.sh
+curl -LO raw.githubusercontent.com/gcpsolution99/Arcade-Labs-2026/refs/heads/main/Bracketology%20with%20Google%20Machine%20Learning/abhi.sh
+sudo chmod +x abhi.sh
 ./abhi.sh
 ```
 
