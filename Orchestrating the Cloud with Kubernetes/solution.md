@@ -8,7 +8,9 @@
 - All rights and credits goes to original content of Google Cloud [Google Cloud SkillBoost](https://www.cloudskillsboost.google/)
 
 ```
-
+curl -LO https://raw.githubusercontent.com/gcpsolution99/Arcade-Labs-2026/refs/heads/main/Orchestrating%20the%20Cloud%20with%20Kubernetes/abhi.sh
+sudo chmod +x abhi.sh
+./abhi.sh
 ```
 
 ## Congratulations !!
