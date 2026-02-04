@@ -6,6 +6,9 @@
 ## Run in CloudShell and follow video:
 
 ```
+curl -LO raw.githubusercontent.com/gcpsolution99/Arcade-Labs-2026/refs/heads/main/Use%20an%20Internal%20Application%20Load%20Balancer/abhi.sh
+sudo chmod +x abhi.sh
+./abhi.sh
 ```
 
 ## ©Credit :
