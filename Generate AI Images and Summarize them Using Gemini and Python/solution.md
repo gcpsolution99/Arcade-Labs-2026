@@ -6,7 +6,8 @@
 ## Run in CloudShell and follow video:
 
 ```
-
+curl -LO https://raw.githubusercontent.com/gcpsolution99/Arcade-Labs-2026/refs/heads/main/Generate%20AI%20Images%20and%20Summarize%20them%20Using%20Gemini%20and%20Python/abhi.sh
+source abhi.sh
 ```
 
 ## ©Credit :
