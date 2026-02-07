@@ -6,10 +6,6 @@
 ## Run in CloudShell and follow video:
 
 ```
-export REGION=
-```
-
-```
 curl -LO https://raw.githubusercontent.com/gcpsolution99/Arcade-Labs-2026/refs/heads/main/Continuous%20Delivery%20with%20Google%20Cloud%20Deploy/abhi.sh
 sudo chmod +x abhi.sh
 ./abhi.sh
