@@ -6,9 +6,9 @@
 ## Run in CloudShell and follow video:
 
 ```
-curl -LO https://raw.githubusercontent.com/gcpsolution99/Arcade-Labs-2026/refs/heads/main/Configure%20Cloud%20Buckets%20with%20gsutil%20for%20Load%20Balancing%20%26%20Fault%20Tolerance/source.sh
+curl -LO https://raw.githubusercontent.com/gcpsolution99/Arcade-Labs-2026/refs/heads/main/Configure%20Cloud%20Buckets%20with%20gsutil%20for%20Load%20Balancing%20%26%20Fault%20Tolerance/abhi.sh
 
-source source.sh
+source abhi.sh
 ```
 
 ## ©Credit :
