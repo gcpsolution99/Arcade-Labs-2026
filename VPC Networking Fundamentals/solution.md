@@ -6,10 +6,12 @@
 ## Run in CloudShell and follow video:
 
 ```
-
+export ZONE_2=
 ```
 ```
-
+curl -LO raw.githubusercontent.com/gcpsolution99/Arcade-Labs-2026/refs/heads/main/VPC%20Networking%20Fundamentals/abhi.sh
+sudo chmod +x abhi.sh
+./abhi.sh
 ```
 
 ## ©Credit :
