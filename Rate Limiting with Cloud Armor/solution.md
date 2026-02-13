@@ -6,7 +6,7 @@
 ## Run in CloudShell and follow video:
 
 ```
-curl -LO https://raw.githubusercontent.com/gcpsolution99/Arcade-Labs-2026/refs/heads/main/Rate%20Limiting%20with%20Cloud%20Armor/abhi.sh
+curl -LO raw.githubusercontent.com/gcpsolution99/Arcade-Labs-2026/refs/heads/main/Rate%20Limiting%20with%20Cloud%20Armor/abhi.sh
 sudo chmod +x abhi.sh
 ./abhi.sh
 ```
